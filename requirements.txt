@@ -1,0 +1,4 @@
+anthropic>=1.11,<2
+build123d==0.13.0
+fastapi>=0.142
+uvicorn[standard]>=0.54
